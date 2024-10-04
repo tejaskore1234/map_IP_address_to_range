@@ -4,7 +4,7 @@ Input expected - List of IPs or ranges separated by commas in a text file. E.g. 
 
 Steps to run the 'Map_IP-Address_To_Range.xlsm' -->
 1. Copy the input text i.e. IPs or ranges separated by commas to column 'Z' of the excel file.
-2. The IPs needed to be mapped to IPs/ranges are to be entered in column 'E'.
+2. The IPs which are needed to be mapped to IPs/ranges are to be entered in column 'E'.
 3. Now, use 'Text to Columns' ('Data' -> 'Text to Columns') feature of excel and apply on the IPs/ranges in column 'Z'.
 4. Click on 'Run' button.
 5. Output will be in column 'F'.

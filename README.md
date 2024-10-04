@@ -12,8 +12,8 @@ Steps to run the 'Map_IP-Address_To_Range.xlsm' -->
 
 Note - Ensure the following settings are in place before running the macro:
 1.  Select the radio button for
-File -> More -> Options -> Trust Center -> Trust Center Settings -> Macro Settings  Enable VBA macros (not recommended; potentially dangerous code can run)
+File -> More -> Options -> Trust Center -> Trust Center Settings -> Macro Settings -> Enable VBA macros (not recommended; potentially dangerous code can run)
 2.	Check the box for ‘Trust access to the VBA project object model’
 3.	Enable ‘Developer’ option
-File -> More -> Options -> Customize Ribbon -> (Customize the Ribbon) Main Tabs  Check the box for ‘Developer’
+File -> More -> Options -> Customize Ribbon -> (Customize the Ribbon) Main Tabs -> Check the box for ‘Developer’
 4.	Press ‘ALT+F11’ -> Tools -> References -> Check the box for ‘Microsoft Scripting Runtime’ 
